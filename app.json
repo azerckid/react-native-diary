@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-diary",
+    "slug": "react-native-diary",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-diary"
+}
